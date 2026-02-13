@@ -1,0 +1,38 @@
+### Visual Studio ###
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+bin/
+obj/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+packages/
+# NuGet v3+
+*.snupkg
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+### Node ###
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Log files
+*.log
+
+# Environment files
+.env
